@@ -1,1 +1,8 @@
-/Line\ Of\ Action/bin
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
